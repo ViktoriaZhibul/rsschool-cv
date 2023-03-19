@@ -1,0 +1,22 @@
+.container{
+    max-width: 920px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-image__image{
+    width: 50%;
+}
+.image{
+    object-fit: cover;
+    width: auto;
+    height: 100%;
+}
+.container-contacts{
+    width: 50%;
+}
+.container-discription{
+    max-width: 920px;
+    margin: auto;
+}
